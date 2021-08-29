@@ -8,7 +8,9 @@ Step 1: Get Data ,
 Step 2: Preprocessing ,
 Step 3: Model build ,
 Step 4: Convert into website ,
-Step 5: Deploy ,
+Step 5: Deploy 
+
+Libraries used : numpy , pandas , ast (Abstract Syntax Tree) , nltk (Natural Language Toolkit) , sklearn , pickle , streamlit , requests .
 
 LOGIC in Preprocessing :<br>
 Convert Every Movies Tags to Vectors
